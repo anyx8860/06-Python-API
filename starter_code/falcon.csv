@@ -1,0 +1,11 @@
+,rockets name,organization name,date,lat,lng,S/F,reason for failure
+0,Falcon 1 | FalconSAT-2,SpaceX,"March 24, 2006 22:30:00 UTC",9.047861,167.743,F,Engine failure at T+33 seconds
+1,Falcon 1 | DemoSat,SpaceX,"March 21, 2007 01:10:00 UTC",9.047861,167.743,F,Premature engine shutdown at T+7:30
+2,Falcon 1 | Flight 3,SpaceX,"August 3, 2008 03:34:00 UTC",9.047861,167.743,F,Residual stage 1 thrust led to collision between stage 1 and stage 2 during separation.
+3,Falcon 1 | RatSat,SpaceX,"September 8, 2008 23:15:00 UTC",9.047861,167.743,S,Na
+4,Falcon 1 | RazakSAT,SpaceX,"July 14, 2009 03:35:00 UTC",9.047861,167.743,S,Na
+5,Falcon 9 v1.0 | Dragon Spacecraft Qualification Unit (DSQU),SpaceX,"June 4, 2010 18:45:00 UTC",28.56194122,-80.57735736,S,Na
+6,Falcon 9 v1.0 | SpaceX COTS Demo Flight 1,SpaceX,"December 8, 2010 15:43:00 UTC",28.56194122,-80.57735736,S,Na
+7,Falcon 9 v1.0 | SpaceX COTS Demo Flight 2,SpaceX,"May 22, 2012 07:44:38 UTC",28.56194122,-80.57735736,S,Na
+8,Falcon 9 v1.0 | SpX CRS-1,SpaceX,"October 8, 2012 00:35:07 UTC",28.56194122,-80.57735736,F,"Dragon was placed into the correct orbit after a first stage engine failed during ascent. However, an Orbcomm secondary payload was placed into a lower than planned orbit and subsequently lost."
+9,Falcon 9 v1.0 | SpX CRS-2,SpaceX,"March 1, 2013 15:10:13 UTC",28.56194122,-80.57735736,S,Na
